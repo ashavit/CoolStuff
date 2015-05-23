@@ -12,3 +12,11 @@ Feel free to contribute!
 - [XCACtionBar](https://github.com/pdcgomes/XCActionBar): Select some text and pop up a command bar to perform various actions on it.
 - [XToDo](https://github.com/trawor/XToDo): Collect and list the TODO,FIXME,???,!!!
 - [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode): Auto generate Javadoc style documentation for methods and properties, including params and return values
+
+
+## Third Parties
+
+### Animation
+- [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations): Easy to read and write chainable animations in Objective-C
+- [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit): Easy to read and write chainable animations in Swift
+- 
