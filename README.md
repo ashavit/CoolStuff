@@ -16,7 +16,7 @@ Feel free to contribute!
 
 ## Third Parties
 
-### Animation
+#### Animation
 - [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations): Easy to read and write chainable animations in Objective-C
 - [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit): Easy to read and write chainable animations in Swift
-- 
+
