@@ -20,3 +20,10 @@ Feel free to contribute!
 - [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations): Easy to read and write chainable animations in Objective-C
 - [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit): Easy to read and write chainable animations in Swift
 
+#### Dependeny Injections
+- [Cleanse](https://github.com/square/Cleanse): Lightweight Swift Dependency Injection Framework
+
+#### CI / CD
+- [Danger](https://github.com/danger/danger): Formalize your Pull Request etiquette
+
+
